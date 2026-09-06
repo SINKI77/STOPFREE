@@ -1,1 +1,14 @@
-
+{
+  "crash": false,
+  "keys": [
+    {
+      "key": "SINKI-12345",
+      "expires": "2026-12-31"
+    },
+    {
+      "key": "SINKI-67890",
+      "expires": "2026-10-31"
+    }
+  ],
+  "pak_url": "ضع_رابط_ملف_game_patch_4.5.0.21338.pak_هنا"
+}
