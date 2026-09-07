@@ -1,5 +1,5 @@
 {
-  "crash": true,
+  "crash": false,
   "maintenance_message": "The application is currently under maintenance.\nPlease stay tuned for updates.\n\nJoin our Telegram channel for the latest announcements.",
   "telegram_url": "https://t.me/Sinki_Pubg_Mobile",
   "keys": [
