@@ -1,5 +1,7 @@
 {
   "crash": false,
+  "maintenance_message": "The application is currently under maintenance.\nPlease stay tuned for updates.\n\nJoin our Telegram channel for the latest announcements.",
+  "telegram_url": "https://t.me/Sinki_Pubg_Mobile",
   "keys": [
     {
       "key": "SINKI-12345",
@@ -11,5 +13,5 @@
     }
   ],
   "pak_url": "https://github.com/SINKI77/SockBolt/releases/download/VIP/game_patch_4.5.0.21338.pak",
-  "signature": "JiQjVpiKvt4zApsND/UXjaIj8x/OIDu86vkVYYtEQ72JTyLEiwNQdanjUAdPlo/rIcN5lTPbbP846+VsMneRdEySnIAVFaXQJwrVLNHEpGiUE2bTfc/qBsy4CJ8uSVNL30EVrydamOP8bNsQf0pJhpXGyp8qMmrGCMXPK/Q9kccv0R/zEzuvLrdHJyYpB9vsuUsNcWpmF/m8znzgoZ8Ixbi8q4V7ktdtHWcHmRYQpKfzQYXeLrDBmQGRXbDakoIFXJkDGqCxNPkfqZhe9b+XWUsGkirIReaEljlY0uGIapzMu5ccXq1wsgW8TmXFV2xyaw0amcgEsYVXKjazqNZ8lw=="
+  "signature": "JiQjVpiKvt4zApsND/UXjaIj8x/OIDu86vkVYYtEQ72JTyLEiwNQdanjUAdPlo/rIcN5lTPbbP846+VsMneRdEySnIAVFaXQJwrVLNHEpGiUE2bTfc/qBsy4CJ8uSVNL30EVrydamOP8bNsQf0pJhpXGyp8qMmrGCMXPK/Q9kccv0R/zEzuvLrdHJyYpB9vsuUsNcWpmF/m8znzgoZ8Ixbi8q4V7ktdtHWcHmRYQpKfzQYXeLrDBmQGRXbDakoIFXJkDGqCxNPkfqZhe9b+XWUsGkirIReaEljlY0uGIapzMu5ccq1wsgW8TmXFV2xyaw0amcgEsYVXKjazqNZ8lw=="
 }
