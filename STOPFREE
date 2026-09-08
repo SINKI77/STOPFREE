@@ -1,15 +1,15 @@
 {
   "crash": false,
-  "maintenance_message": "The application is currently under maintenance.\nPlease stay tuned for updates.\n\nJoin our Telegram channel for the latest announcements.",
+  "maintenance_message": "SinkiCheat is currently being updated.\nPlease stay tuned for the latest updates.\n\nJoin our Telegram channel for the latest updates.",
   "telegram_url": "https://t.me/Sinki_Pubg_Mobile",
   "keys": [
     {
       "key": "SINKI-12345",
-      "expires": "2026-12-31"
+      "expires": "2024-12-31"
     },
     {
       "key": "SINKI-67890",
-      "expires": "2026-10-31"
+      "expires": "2024-10-31"
     }
   ],
   "pak_url": "https://github.com/SINKI77/SockBolt/releases/download/VIP/game_patch_4.5.0.21338.pak",
